@@ -1,16 +1,30 @@
-## Hi there 👋
+# Jiny Labs
 
-<!--
-**jiny-labs/jiny-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-driven QA automation & decision systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Focus
+- QA → Product Risk → Decision Systems
+- Figma → TestCase automation
+
+---
+
+## 🧪 Projects
+- **Q-Board**: Figma 기반 UI → TestCase 자동 생성 시스템
+- **QA-PM Automation**: QA 관점을 Product/PM 의사결정 구조로 확장한 프로젝트
+- **Portfolio Rebuild**: 기존 QA 경험을 Product 중심으로 재구성
+
+---
+
+## 🛠 Tech
+- FastAPI
+- React
+- Zustand
+- SQLite
+
+---
+
+## 📌 Goal
+- 2026: Q-Board MVP 출시
+- QA → Product (PO/PM) 전환
